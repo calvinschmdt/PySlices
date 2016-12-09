@@ -1,0 +1,3 @@
+[console_scripts]
+PySlices_cli = PySlices.main:entry_point
+
